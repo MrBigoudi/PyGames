@@ -1,7 +1,7 @@
 from mainGame import MainGame
 
 def main():
-    game = MainGame()
+    game = MainGame("map.txt")
     game.run()
     return 0
 

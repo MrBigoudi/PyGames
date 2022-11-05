@@ -7,7 +7,7 @@ PyGame
 ## HowTo
 ```
 python3 flappyBird/main.py
-python3 marioBros/main.py
 python3 pong/main.py
 python3 tic_tac_toe/main.py
+python3 marioBros/main.py
 ```
