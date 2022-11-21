@@ -1,4 +1,4 @@
-# PongPyGame
+# PyGames
 Few games to learn the bases of PyGame
 
 ## Dependencies
